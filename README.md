@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data Visualization
 
 The project has been designed and developed on Tableau Public and it's accessible from the following link:
 
